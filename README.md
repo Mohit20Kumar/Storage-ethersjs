@@ -1,3 +1,3 @@
 # THIS IS MY READ ME
 
-I may write some stuff here and there.
+Made a Storage Contract in solidity using Ganache, Ethers.js and experimented with ALCHEMY.
